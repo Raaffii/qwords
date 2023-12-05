@@ -1,11 +1,16 @@
 <h2>cara setup </h2>
 - download rar
+<br>
 - extract file rar kedalam sebuah folder
+<br>
 - untuk menjalankan pada terminal jalankan php artisan serve
 
 <h2>Teknologi yang di gunakan </h2>
+<br>
 - Laravel 10 (php)
+<br>
 - Bootstrap
+<br>
 - Javascript
 
 <h2>Template </h2>
