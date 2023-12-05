@@ -1,5 +1,5 @@
 <h2>cara setup </h2>
-- download rar
+- Download rar
 <br>
 - extract file rar kedalam sebuah folder
 <br>
